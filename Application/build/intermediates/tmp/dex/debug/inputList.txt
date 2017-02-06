@@ -1,0 +1,7 @@
+C:\Users\Ra\Documents\ECE 44x\Android\_bleIO\Application\build\intermediates\classes\debug
+C:\Users\Ra\Documents\ECE 44x\Android\_bleIO\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-17b10aa94845c6a9f9bcf486132a7e18d75ace88.jar
+C:\Users\Ra\Documents\ECE 44x\Android\_bleIO\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-f10bea56f41ae5a92e5e737cefa956ccc5834eca.jar
+C:\Users\Ra\Documents\ECE 44x\Android\_bleIO\Application\build\intermediates\pre-dexed\debug\classes-713f2f79ac731a6b6c8f1db6f5d37165e9ef8e4c.jar
+C:\Users\Ra\Documents\ECE 44x\Android\_bleIO\Application\build\intermediates\pre-dexed\debug\classes-e6ae56c93f83014fed2d502c161f6ff7fdef1586.jar
+C:\Users\Ra\Documents\ECE 44x\Android\_bleIO\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-40564d464dbfc35f3e869966980fa8abeab8df42.jar
+C:\Users\Ra\Documents\ECE 44x\Android\_bleIO\Application\build\intermediates\pre-dexed\debug\classes-b0ee5742fbac2f5aeb55f6ad6b29fa8a786a817c.jar
